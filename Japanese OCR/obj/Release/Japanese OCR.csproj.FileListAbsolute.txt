@@ -1,0 +1,39 @@
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\x64\liblept172.dll
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\x64\libtesseract304.dll
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\x86\liblept172.dll
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\x86\libtesseract304.dll
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\Japanese OCR.exe.config
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\Japanese OCR.exe
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\Japanese OCR.pdb
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\Tesseract.dll
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\Tesseract.xml
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese OCR.csprojAssemblyReference.cache
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese_OCR.Properties.Resources.resources
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese OCR.csproj.GenerateResource.cache
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese OCR.csproj.CoreCompileInputs.cache
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese OCR.csproj.CopyComplete
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese OCR.exe
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese OCR.pdb
+D:\VS Projects\Japanese OCR\Japanese OCR\bin\Release\tessdata\jpn.traineddata
+D:\VS Projects\Japanese OCR\Japanese OCR\obj\Release\Japanese_OCR.Form1.resources
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese OCR.csprojAssemblyReference.cache
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese_OCR.Form1.resources
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese_OCR.Properties.Resources.resources
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese OCR.csproj.GenerateResource.cache
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese OCR.csproj.CoreCompileInputs.cache
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese OCR.exe
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese OCR.pdb
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\x64\liblept172.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\x64\libtesseract304.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\x86\liblept172.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\x86\libtesseract304.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\tessdata\jpn.traineddata
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\Japanese OCR.exe.config
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\Japanese OCR.exe
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\Japanese OCR.pdb
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\AForge.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\AForge.Video.DirectShow.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\AForge.Video.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\Tesseract.dll
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\bin\Release\Tesseract.xml
+C:\Users\Diemas\Documents\VS Projects\Japan-OCR\Japanese OCR\obj\Release\Japanese OCR.csproj.CopyComplete

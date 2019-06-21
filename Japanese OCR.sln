@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Japanese OCR", "Japanese OCR\Japanese OCR.csproj", "{0C131056-CC80-4FAE-8C56-6D8EBEB5261B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C131056-CC80-4FAE-8C56-6D8EBEB5261B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C131056-CC80-4FAE-8C56-6D8EBEB5261B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C131056-CC80-4FAE-8C56-6D8EBEB5261B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C131056-CC80-4FAE-8C56-6D8EBEB5261B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E15C7FD4-9C30-44E4-8E25-BFEFFC91B8C9}
+	EndGlobalSection
+EndGlobal
